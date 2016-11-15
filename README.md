@@ -1,4 +1,4 @@
-# hadoop-code
+# Distributed Prime Number Calculator
 Hadoop version 2.5.2
 
 #How to run
